@@ -8,8 +8,11 @@ Owner: Ayoze Vera
 
 ### How do I get set up? ###
 
-* Just execute:
-boxer install
+* Install Node dependencies:
+npm install
+
+* Install Bower dependencies:
+bower install
 
 * To run the server you just need to execute:
 node server/main.js
